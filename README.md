@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @lucascapicotto
+- 👀 I’m interested in Computer Engineering
+- 🌱 I’m currently learning a bunch of different software!
